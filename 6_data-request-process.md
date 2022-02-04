@@ -25,4 +25,4 @@ With support from the Operating Group and the Participating Agencies, the Data R
 6. Determine the Participating Agencies’ confidentiality and privacy requirements, permissions and limitations for Data Recipient’s dissemination or publication of the results before release beyond the Data Recipient(s) named in the DSA. 
 7. Signed approval from Participating Agencies. 
 
-*Image*
+**Image**
