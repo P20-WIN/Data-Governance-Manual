@@ -1,17 +1,14 @@
 # Setup
 title:            'State of Connecticut'
-tagline:          'Data Sharing Playbook'
-description:      'Connecticut Data Playbook'
+tagline:          'P20 WIN Data Governance Manual'
+description:      'Data governance documentation for P20 WIN'
 
 author:
   name:           'State of Connecticut'
-  url:            https://github.com/CTOpenData/data-sharing-playbook
+  url:            https://github.com/CTOpenData/p20win-data-governance-manual
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/CTOpenData/data-sharing-playbook
-
-# Google Analytics
-google_analytics: UA-56144207-2
+  repo:           https://github.com/CTOpenData/p20win-data-governance-manual
