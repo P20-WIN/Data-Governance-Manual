@@ -1,0 +1,18 @@
+<div class="ct-p-5 ct-bg-grey-light" id="sidebar">
+  <nav>
+    <a class="ct-block ct-pb-3 ct-mb-3 ct-border-grey-border ct-border-b {% if page.title == "Introduction" %} ct-font-bold{% endif %}" href="{{ site.baseurl }}/">Introduction</a>
+
+    <ol>
+    {% assign pages_list = site.pages | where: "layout","page" | where: "nav", true %}
+    {% for node in pages_list %}
+      <li><a class="ct-block ct-pb-3 ct-mb-3 ct-border-grey-border ct-border-b {% if page.url == node.url %} ct-font-bold{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ forloop.index }}. {{ node.title }}</a></li>
+    {% endfor %}
+    </ol>
+
+    <a class="ct-block ct-pb-3 ct-mb-3 ct-border-grey-border ct-border-b {% if page.title == "Print" %} ct-font-bold{% endif %}" href="{{ site.baseurl }}/print"  target="_blank">Complete Playbook (Print View)</a>
+
+    <div class="ct-text-sm">
+      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    </div>
+  </nav>
+</div>
