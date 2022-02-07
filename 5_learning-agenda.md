@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Agenda
-permalink: /research-agenda/
+title: Learning Agenda
+permalink: /learning-agenda/
 nav: true
 weight: 5
 ---
