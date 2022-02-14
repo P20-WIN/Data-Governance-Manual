@@ -4,6 +4,9 @@ title: Introduction
 home: true
 weight: 0
 ---
+
+ ![](assets/images/P20WINlogo_color.png) 
+
 ## About the P20 WIN Data Governance Manual 
 
 Data governance can be defined as both an organizational process and a structure; it establishes responsibility for data, organizing program area staff to collaboratively and continuously improve data quality through the systematic creation and enforcement of policies, roles, responsibilities, and procedures. As a structure, clear and specific roles and responsibilities are assigned and staff are held accountable for the quality of the data they manage. Ultimately though, data governance is not about who is in charge: it is about identifying existing or potential data problems and fixing them to prevent them from happening or recurring. As a continuous and iterative process, data governance is a systematic way of handling data throughout the information life cycle, from definition to retirement. 
