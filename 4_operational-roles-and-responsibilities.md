@@ -3,7 +3,7 @@ layout: page
 title: Operational Roles and Responsibilities
 permalink: /operational-roles-and-responsibilities/
 nav: true
-weight: 3
+weight: 4
 ---
 
 The Operating Group and Data Integration Hub share responsibility in hosting and operating P20 WIN, with the Operating Group serving as the lead agency responsible for the operations and the Data Integration Hub responsible for hosting, linking and transmitting Data.
