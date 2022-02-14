@@ -5,7 +5,7 @@ home: true
 weight: 0
 ---
 
- <img src="assets/images/P20WINlogo_color.png" height="150">
+ <img src="assets/images/P20WINlogo_color.png" alt="p20win logo" height="100">
 
 ## About the P20 WIN Data Governance Manual 
 
