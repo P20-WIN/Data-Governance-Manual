@@ -6,6 +6,7 @@ weight: 0
 ---
 ![](assets/images/P20WINlogo_color.png)
 <img src="assets/images/P20WINlogo_color.png" height="100">
+[[assets/images/P20WINlogo_color.png|width=400px]]
 
 ## About the P20 WIN Data Governance Manual 
 
