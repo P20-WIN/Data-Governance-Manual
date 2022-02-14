@@ -3,7 +3,7 @@ layout: page
 title: Data Policies
 permalink: /data-policies/
 nav: true
-weight: 4
+weight: 5
 ---
 
 The previous sections outline the key management roles and responsibilities to support and maintain cross-agency data sharing. The following sections describe key data policies that promote data quality, data accuracy, and acceptable use standards.  
