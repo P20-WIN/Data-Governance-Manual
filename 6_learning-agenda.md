@@ -3,7 +3,7 @@ layout: page
 title: Learning Agenda
 permalink: /learning-agenda/
 nav: true
-weight: 5
+weight: 6
 ---
 
 All policies and actions of the Data Governing Board shall further the priorities outlined in the P20 WIN research agenda. The Operating Group, with the Participating Agencies, will support the continued progress in each area of focus: college and career success, student readiness, financial aid, workforce training, and overcoming barriers to success. These areas have a broad scope that should allow for a wide array of research projects and involve many of the participating agencies. 
