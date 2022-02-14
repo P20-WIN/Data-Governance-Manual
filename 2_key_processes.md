@@ -3,7 +3,7 @@ layout: page
 title: 'Key Processes'
 permalink: /key-processes/
 nav: true
-weight: 7
+weight: 2
 ---
 
 ## Key Processes
