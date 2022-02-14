@@ -3,7 +3,7 @@ layout: page
 title: Data Request Process
 permalink: /data-request-process/
 nav: true
-weight: 6
+weight: 7
 ---
 
 With support from the Operating Group and the Participating Agencies, the Data Recipient details the intended purpose, identified data content, and security expectations, availability and dependency requirements in the DSA and the Data Sharing Request Form (Exhibit A to the Data Sharing Agreement) which shall address, including but not limited to the following: 
