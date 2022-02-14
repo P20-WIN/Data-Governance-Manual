@@ -3,7 +3,7 @@ layout: page
 title: 'Appendix A: Definitions'
 permalink: /appendix-a-definitions/
 nav: true
-weight: 7
+weight: 8
 ---
 
 **Data definitions** mean the plain language descriptions of data elements.
