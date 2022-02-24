@@ -14,7 +14,7 @@ Together these groups provide a framework for system leadership, implementation 
 
 ## Executive Board
 
-The Executive Board is a multi-agency committee that develops the vision of the P20 WIN system and provides oversight and leadership for the data governance structure. The Executive Board is composed of Commissioners and Executive leadership from each of the Participating Agencies. The Executive Board is responsible for sustaining the P20 WIN system by supporting its vision and securing resources to maintain its efficient operation. 
+The Executive Board is a multi-agency committee composed of Commissioners and Executive leadership from each of the Participating Agencies. The Executive Board develops the vision for P20 WIN and provides oversight and leadership for the data governance structure. The Executive Board is responsible for sustaining the P20 WIN system by supporting its vision and securing resources to maintain its efficient operation. 
 
 While membership within P20 WIN is not restricted to Executive Branch state agencies, the P20 WIN Executive Board Chairperson must be a State official or employee. As Chairperson, they conduct all Executive Board meetings, represent the P20 WIN Data Sharing process, and work with all Participating Agency leaders and political leaders to assure agency-to-agency coordination and to further data sharing to improve services provided to the residents of Connecticut. The Chairperson leads the Executive Board to set the direction for the Data Sharing process and coordinates with the Operating Group to set agendas and resolve operational matters. 
 
