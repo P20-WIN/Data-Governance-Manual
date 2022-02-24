@@ -4,7 +4,7 @@ title: Introduction
 home: true
 weight: 0
 ---
-![](assets/images/P20WINlogo_color.png)
+<img src="https://github.com/CTOpenData/p20win-data-governance-manual/blob/48e6a1cff1f95bcda62bfdfacdb7b797db6fe691/assets/images/P20WINlogo_color.png" width="800">
 
 ## About the P20 WIN Data Governance Manual 
 
