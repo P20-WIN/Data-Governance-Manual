@@ -6,8 +6,6 @@ nav: true
 weight: 2
 ---
 
-## Key Processes
-
 Together the P20 WIN data governing bodies work in concert to ensure that the following processes operate smoothly. 
 
 | Process | Details |
