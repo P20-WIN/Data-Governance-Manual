@@ -6,9 +6,9 @@ nav: true
 weight: 6
 ---
 
-All policies and actions of the Data Governing Board shall further the priorities outlined in the P20 WIN research agenda. The Operating Group, with the Participating Agencies, will support the continued progress in each area of focus: college and career success, student readiness, financial aid, workforce training, and overcoming barriers to success. These areas have a broad scope that should allow for a wide array of research projects and involve many of the participating agencies. 
+All policies and actions of the Data Governing Board shall further the priorities outlined in the P20 WIN Learning Agenda. The Operating Group, with the Participating Agencies, will support the continued progress in each area of focus: college and career success, student readiness, financial aid, workforce training, and overcoming barriers to success. These areas have a broad scope that should allow for a wide array of research projects and involve many of the participating agencies. 
 
-The Research Agenda is subject to change as state and agency data needs evolve; therefore, the Data Governing Board may propose changes to this document for the Executive Board to approve. Agencies are also encouraged to develop agency-specific research agendas. The agenda can be updated at any time, but the Executive Board conducts an annual review of the agenda at their November meeting. 
+The Learning Agenda is subject to change as state and agency data needs evolve; therefore, the Data Governing Board may propose changes to this document for the Executive Board to approve. Agencies are also encouraged to develop agency-specific learning agendas. The agenda can be updated at any time, but the Executive Board conducts an annual review of the agenda at their November meeting. 
 
 ## College and Career Success
 
