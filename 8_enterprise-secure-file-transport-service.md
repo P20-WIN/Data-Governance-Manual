@@ -13,13 +13,13 @@ To access the CT.GOV Secure Transport SIGN IN page, open a Web browser (Mozilla,
 
 https://sft.ct.gov/
 
-<img src="./assets/images/SFTP_1.png" alt="image" width="750"/>
+![](assets/images/SFTP_1.png)
 
 From the SIGN IN Page, user enters their account name and password and clicks "Sign In"
 
 **Please note that BOTH "User Name" and "Password" values are CaSE sEnSiTIVe.**
 
-<img src="./assets/images/SFTP_2.png" alt="image" width="750"/>
+![](assets/images/SFTP_2.png)
 
 Because we had set the "Require user to change password on next login" when the account was created, the User will be prompted to change their password upon their first login.
 
@@ -29,11 +29,11 @@ Because we had set the "Require user to change password on next login" when the 
 
 - [x]	Click "Save".
 
-<img src="./assets/images/SFTP_3.png" alt="image" width="750"/>
+![](assets/images/SFTP_3.png)
 
 - [x]	Re-enter your account name and enter your newly created password and click "Sign In".
 
-<img src="./assets/images/SFTP_4.png" alt="image" width="750"/>
+![](assets/images/SFTP_4.png)
 
 Upon successful authentication, the user is brought to their "home" folder.  From this screen, users can:
 
@@ -55,24 +55,24 @@ Upon successful authentication, the user is brought to their "home" folder.  Fro
 
 **Example of file browse, upload, view, and deletion**
 
-<img src="./assets/images/SFTP_5.png" alt="image" width="750"/>
+![](assets/images/SFTP_5.png)
 
 - [x] Click "Browse" to open a file explorer window and browse your local system.  
 - [x]	Click to highlight the file and select "Open" (or double-click the file).  
 - [x]	You may also highlight and select multiple files to upload.  
 
-<img src="./assets/images/SFTP_6.png" alt="image" width="750"/>
+![](assets/images/SFTP_6.png)
 
 The file name appears next the the "Browse" button, indicating that the file is in focus to be uploaded.  If you selected multiple files to upload, you will see *"x files", x* indicating the total number of files you have selected.  You can click "Upload File" to upload the file from your local system to your home folder in the Secure Transport environment.
 
-<img src="./assets/images/SFTP_7.png" alt="image" width="750"/>
+![](assets/images/SFTP_7.png)
 
 **Example of a successful file upload for an SRR account.**
 
 - [x]	By clicking the check box next to the file, you can then select to "Delete" the file or view the file as either "Text" or "HTML".  
 - [x]	Selecting to "view" the file will open the file contents in a browser window:
 
-<img src="./assets/images/SFTP_8.png" alt="image" width="750"/>
+![](assets/images/SFTP_8.png)
 
 - [x]	To return to your "Home" folder, hit the "back" button on your browser.
 
@@ -81,7 +81,7 @@ The file name appears next the the "Browse" button, indicating that the file is 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***your session cookie, requiring you to completely close your web browser, re-launch the browser***  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***and re-authenticate to Secure Transport.***
 
-<img src="./assets/images/SFTP_9.png" alt="image" width="750"/>
+![](assets/images/SFTP_9.png)
 
 To download a file from your home directory, select the file you wish to perform the action on by enabling the check mark next to the file and click "Download".  Depending upon your browser you may be prompted to View the file or Save the file to your local system.  Again, depending upon your browser, your file may be saved by default to a "download" directory in your user profile on your local system.  
 
