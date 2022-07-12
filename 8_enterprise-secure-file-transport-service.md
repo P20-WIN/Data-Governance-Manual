@@ -115,4 +115,3 @@ To delete a file from your home directory, select the file you wish to perform t
 | BITS Contacts: |  |
 | **Additional Resources** | |
 | AXWAY On-Line Help: | https://159.247.3.180:444/help/Default.htm |
-
