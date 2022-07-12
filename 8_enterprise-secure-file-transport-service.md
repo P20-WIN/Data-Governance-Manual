@@ -13,6 +13,7 @@ To access the CT.GOV Secure Transport SIGN IN page, open a Web browser (Mozilla,
 
 https://sft.ct.gov/
 
+![](assets/images/SFTP_1.png) 
 <img src="./assets/images/SFTP_1.png" alt="image" width="800"/>
 
 From the SIGN IN Page, user enters their account name and password and clicks "Sign In"
