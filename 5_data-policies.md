@@ -25,15 +25,20 @@ Participating Agencies Data Stewards should follow the standardized formatting r
 
 For matching files – Files should be in a tab delimited text file. There should not be quotations around text fields.
 
-For analytic files – Files should be in the format requested and approved for the given data request.
+For analytical files – Files should be in the format requested and approved for the given data request.
 
 ## Standard naming convention for files and data elements:
 
 The file naming standard for data files transferred via SFTP is as follows:  
+
 a. Agency acronym
+
 b. Data Request Number listed in DSA
+
 c. Date file was created (MM_DD_YYYY)
+
 d. Contents of file (matching, analytical, key)
+
 example: "DOL.000.01_01_2000.matching"
 
 The table below identifies the most commonly requested data variables.
