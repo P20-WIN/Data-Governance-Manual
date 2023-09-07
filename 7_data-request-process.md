@@ -26,3 +26,7 @@ With support from the Operating Group and the Participating Agencies, the Data R
 7. Signed approval from Participating Agencies. 
 
 **Image**
+
+## Resources for Data Requestors
+
+If a data requestor needs to communicate with a participating agency questions concerning the data, all communications need to occur in a secure environment. For instructions on how to use the secure email platform provided by BITS, please refer to this [link](https://portal.ct.gov/-/media/DAS/BEST/Planning-and-Architecture/OME-FAQ2022.pdf). If you are a data requestor, you can request that a state agency initiates a secure email chain. 
